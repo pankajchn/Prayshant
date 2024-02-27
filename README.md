@@ -1,4 +1,4 @@
 # Prayshant
 This is my first Git Repository.
 <br>
-Author - Pankaj Chouhan
+Author - Pankaj (Prayshant)
